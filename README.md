@@ -22,7 +22,7 @@ Built primarily using **SQL** for robust data preparation and complex calculatio
 
 ## 🧰 Tools & Technologies
 
-  * **SQL (PostgreSQL/MySQL/SQL Server compatible)**: Employed for comprehensive data preprocessing, feature engineering, and complex calculations including window functions, Common Table Expressions (CTEs), and aggregation, ensuring data integrity and performance.
+  * **SQL (SQL Server)**: Employed for comprehensive data preprocessing, feature engineering, and complex calculations including window functions, Common Table Expressions (CTEs), and aggregation, ensuring data integrity and performance.
   * **Tableau Desktop / Tableau Public**: The core visualization tool used for designing interactive dashboards, charts, and incorporating various filters and parameters to allow dynamic exploration of data.
   * **Python (Pandas/Numpy/Scikit-learn/TensorFlow/Keras)**: Utilized (as indicated by LSTM, XGBoost, Random Forest models in forecasts) for advanced statistical analysis, machine learning model training (especially for the `Close Price Forecast` dashboard), and potentially for more intricate data manipulation or custom indicator calculations not easily done in SQL.
   * **GitHub**: Essential for project version control, collaboration, and showcasing the entire data analytics workflow.
