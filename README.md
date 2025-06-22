@@ -113,8 +113,6 @@ This project's analysis across 2000-2025 stock data yielded several critical ins
 
 -----
 
------
-
 ## How to Use
 
 To set up and interact with this powerful dashboard suite:
