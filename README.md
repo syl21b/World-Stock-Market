@@ -74,10 +74,10 @@ This project features a suite of interconnected dashboards, each serving a speci
 
 This dashboard project is invaluable for various stakeholders:
 
-  * ** For Data Analysts & Scientists:** A robust framework for pattern recognition, technical signal detection, and applying machine learning models to financial time series.
-  * ** For Investors & Traders:** Provides critical insights for volatility tracking, trend signals, identifying optimal entry/exit points, understanding price anchors, and validating predictive outlooks for more confident investment decisions.
-  * ** For Financial Researchers:** A rich dataset and visualization toolkit for conducting macro trend analysis, behavioral finance studies, and exploring the efficacy of various technical strategies.
-  * ** For Students & Learners:** An excellent practical example of applying SQL, Tableau, and machine learning for real-world financial data analysis.
+  * **For Data Analysts & Scientists:** A robust framework for pattern recognition, technical signal detection, and applying machine learning models to financial time series.
+  * **For Investors & Traders:** Provides critical insights for volatility tracking, trend signals, identifying optimal entry/exit points, understanding price anchors, and validating predictive outlooks for more confident investment decisions.
+  * **For Financial Researchers:** A rich dataset and visualization toolkit for conducting macro trend analysis, behavioral finance studies, and exploring the efficacy of various technical strategies.
+  * **For Students & Learners:** An excellent practical example of applying SQL, Tableau, and machine learning for real-world financial data analysis.
 
 -----
 
