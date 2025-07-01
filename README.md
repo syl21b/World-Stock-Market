@@ -127,12 +127,6 @@ To set up and interact with this powerful dashboard suite:
 
 -----
 
-## License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
------
-
 ## Acknowledgments
 
 This project is inspired by real-world stock trading analysis methodologies, advanced pattern detection techniques, and robust market psychology studies. Special thanks to the open-source community for the invaluable tools and resources that made this project possible.
